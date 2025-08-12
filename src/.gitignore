@@ -1,0 +1,9 @@
+# Ignore compiled class files
+*.class
+*.jar
+bin/
+
+.vscode/
+.classpath
+.project
+.settings/
